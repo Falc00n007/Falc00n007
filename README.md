@@ -1,7 +1,8 @@
 ### Hi there 👋
+
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-I am an Air Force veteran with a background in Information Security, and I have started my journey in cloud computing, design and research.
+I am an Air Force veteran with a background in Information Security, and I have started my journey in cloud computing, design and research. 
 
 Join me as I explore the intersection of security and the cloud.
 
@@ -9,7 +10,7 @@ Find out more about me & feel free to connect here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Donica%20Briggs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/donicabriggs)](https://www.linkedin.com/public-profile/in/donicabrig>
+[![Linkedin Badge](https://img.shields.io/badge/-Donica%20Briggs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/donicabriggs)](https://www.linkedin.com/public-profile/in/donicabriggs)
 [![Medium Badge](https://img.shields.io/badge/Donica%20Briggs-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@donica.briggs)](https://medium.com/@donica.briggs)
 [![Gmail Badge](https://img.shields.io/badge/-Donica.Briggs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Donica.Briggs@gmail.com)](mailto:Donica.Briggs@gmail.com)
 
@@ -33,15 +34,3 @@ Find out more about me & feel free to connect here:
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
-
-
-
-
-
-
-
-
-
-
-
-
