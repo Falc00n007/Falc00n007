@@ -1,10 +1,34 @@
 ### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+write it cool:
 
-I am an Air Force veteran with a background in Information Security, and I have started my journey in cloud computing, design and research. 
-
-Join me as I explore the intersection of security and the cloud.
+With over 10 years of experience in DevSecOps Engineering and software
+development, I have focused on Build, Release, Continuous Integration, Cloud Web
+Service, Deployment Automation, Release Management, and Cloud
+Implementation software configuration management. I have extensive experience
+in DevOps, including setting up enterprise infrastructure on Kubernetes and Docker
+Swarm using Helm, Puppet, and Ansible instances, Security Groups, Auto Scaling
+code Developing, and Application Software Versioning on Git. I have experience in
+branching, merging, and maintaining versions using SCM tools such as GitLab and
+GitHub on the Linux platform. Additionally, I have hands-on experience with EC2,
+S3, RDS, VPC, ELB, EBS, and Auto Scaling, as well as full scaling on Atlassian and
+Microsoft Azure DevOps Platform Services (On-prem or Cloud) in Project
+Management, issue tracking, and Documentary tools.
+I have experience creating Docker containers and Docker consoles to manage the
+application lifecycle, as well as creating custom Docker Images using Dockerfile for
+easier replication of DEV and QA Environments on local machines. I have
+performed and deployed builds for various Environments such as QA, Integration,
+UAT, and Production Environments, and developed and deployed Chef, Puppet
+based on their cookbooks, recipes, and manifest. I have also configured and
+monitored distributed and multi-platform servers using Nagios.
+My strong analytical and problem-solving skills enable me to work independently
+with little or no supervision or as a member of a team. I have extensive experience
+ensuring visitors to online services have a safe experience and their personal data is
+secure, as well as protecting corporate data and employees' equipment. Protecting
+customer and company information is an essential part of my role, and I am
+passionate about improving it while creating a secure environment without
+restricting or slowing down business processes.
 
 Find out more about me & feel free to connect here:
 
