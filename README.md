@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-write it cool:
-
 With over 10 years of experience in DevSecOps Engineering and software
 development, I have focused on Build, Release, Continuous Integration, Cloud Web
 Service, Deployment Automation, Release Management, and Cloud
