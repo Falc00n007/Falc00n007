@@ -56,4 +56,4 @@ Find out more about me & feel free to connect here:
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFalc00n007&label=Visitors&countColor=%23263759&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFalc00n007&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=Falc00n007)
