@@ -47,6 +47,7 @@ Find out more about me & feel free to connect here:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-%326CE5.svg?style=for-the-badge&logo=kubeernetes&logoColor=white)
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
