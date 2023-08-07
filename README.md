@@ -37,6 +37,7 @@ Find out more about me & feel free to connect here:
 
 ## ⚡ Technologies
 
+
 <!-- Check out the Badges folder for more badges -->
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
