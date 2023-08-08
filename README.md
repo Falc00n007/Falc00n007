@@ -72,7 +72,7 @@ Find out more about me & feel free to connect here:
 * Linux System Administration.
 * Docker & Containerd.
 * Iac:
-	** Terraform.
+ ** Terraform.
 * Configuration Management:
 ** Ansible.
 **Puppet.
