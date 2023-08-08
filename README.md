@@ -64,3 +64,46 @@ Find out more about me & feel free to connect here:
 <!-- [![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech) -->
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFalc00n007&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=Falc00n007)
+
+
+
+Technical Skills
+• Programming in Python.
+• Linux System Administration.
+• Docker & Containerd.
+• Iac:
+	• Terraform.
+• Configuration Management:
+	• Ansible.
+	• Puppet.
+	• Chef.
+• CI /CD:
+	• GitLab.
+	• GitHub.
+	• Jenkins.
+	• Bamboo.
+	• Argo CD.
+	• Circle CI.
+	• Spinnaker CD.
+• Container Orchestration:
+	• K8S.
+	• Helm.
+	• Registery.
+• Monitoring:
+	• Prometheous.
+	• Grafana.
+	• ELK Stack.
+	• Nagios.
+	• Zabbix.
+	• Datadog.
+	• Graylog.
+	• Public Clouds:
+	• AWS.
+	• GCP.
+• On-Prime Structures:
+	• Microsoft Azure.
+• Colloboration Software:
+	•Atlassian:
+	•Jira Task Manager.
+	•Confluence Documentary.
+	•Trello
