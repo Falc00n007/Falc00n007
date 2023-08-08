@@ -40,7 +40,6 @@ Find out more about me & feel free to connect here:
 
 <!-- Check out the Badges folder for more badges -->
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -52,6 +51,7 @@ Find out more about me & feel free to connect here:
 ![Puppet](https://img.shields.io/badge/-Puppet-FFAE1A?logo=puppet&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)
 
