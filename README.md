@@ -1,23 +1,23 @@
 ### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-With over 10 years of experience in DevSecOps Engineering and software
-development, I have focused on Build, Release, Continuous Integration, Cloud Web
-Service, Deployment Automation, Release Management, and Cloud
+With over 10 years of experience in **DevSecOps Engineering** and software
+development, I have focused on **Build, Release, Continuous Integration, Cloud Web
+Service, Deployment Automation, Release Management**, and Cloud
 Implementation software configuration management. I have extensive experience
-in DevOps, including setting up enterprise infrastructure on Kubernetes and Docker
-Swarm using Helm, Puppet, and Ansible instances, Security Groups, Auto Scaling
-code Developing, and Application Software Versioning on Git. I have experience in
-branching, merging, and maintaining versions using SCM tools such as GitLab and
-GitHub on the Linux platform. Additionally, I have hands-on experience with EC2,
-S3, RDS, VPC, ELB, EBS, and Auto Scaling, as well as full scaling on Atlassian and
-Microsoft Azure DevOps Platform Services (On-prem or Cloud) in Project
+in **DevOps**, including setting up enterprise infrastructure on **Kubernetes** and **Docker**
+Swarm using **Helm, Puppet, and Ansible instances, Security Groups, Auto Scaling
+code Developing**, and Application Software Versioning on **Git**. I have experience in
+branching, merging, and maintaining versions using SCM tools such as **GitLab** and
+**GitHub** on the Linux platform. Additionally, I have hands-on experience with **EC2,
+S3, RDS, VPC, ELB, EBS, and Auto Scaling**, as well as full scaling on **Atlassian** and
+**Microsoft Azure DevOps** Platform Services (**On-prem** or **Cloud**) in Project
 Management, issue tracking, and Documentary tools.
-I have experience creating Docker containers and Docker consoles to manage the
-application lifecycle, as well as creating custom Docker Images using Dockerfile for
+I have experience creating **Docker containers** and **Docker consoles** to manage the
+application **lifecycle**, as well as creating custom Docker Images using Dockerfile for
 easier replication of DEV and QA Environments on local machines. I have
-performed and deployed builds for various Environments such as QA, Integration,
-UAT, and Production Environments, and developed and deployed Chef, Puppet
+performed and deployed builds for **various Environments** such as **QA, Integration,
+UAT, and Production Environments**, and developed and deployed **Chef, Puppet**
 based on their cookbooks, recipes, and manifest. I have also configured and
 monitored distributed and multi-platform servers using Nagios.
 My strong analytical and problem-solving skills enable me to work independently
