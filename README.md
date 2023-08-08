@@ -67,15 +67,15 @@ Find out more about me & feel free to connect here:
 
 
 
-Technical Skills
-• Programming in Python.
-• Linux System Administration.
-• Docker & Containerd.
-• Iac:
-	• Terraform.
-• Configuration Management:
-	• Ansible.
-	• Puppet.
+# Technical Skills
+* Programming in Python.
+* Linux System Administration.
+* Docker & Containerd.
+* Iac:
+	** Terraform.
+* Configuration Management:
+** Ansible.
+**Puppet.
 	• Chef.
 • CI /CD:
 	• GitLab.
