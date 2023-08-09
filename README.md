@@ -67,43 +67,44 @@ Find out more about me & feel free to connect here:
 
 
 
-# Technical Skills
-** Programming in Python.**
-** Linux System Administration.**
-** Docker & Containerd.**
-** Iac:**
-	* Terraform.
-** Configuration Management:**
-* Ansible.
-* Puppet.
-* Chef.
-*• CI /CD:**
-	• GitLab.
-	• GitHub.
-	• Jenkins.
-	• Bamboo.
-	• Argo CD.
-	• Circle CI.
-	• Spinnaker CD.
-• Container Orchestration:
-	• K8S.
-	• Helm.
-	• Registery.
-• Monitoring:
-	• Prometheous.
-	• Grafana.
-	• ELK Stack.
-	• Nagios.
-	• Zabbix.
-	• Datadog.
-	• Graylog.
-	• Public Clouds:
-	• AWS.
-	• GCP.
-• On-Prime Structures:
-	• Microsoft Azure.
-• Colloboration Software:
-	•Atlassian:
-	•Jira Task Manager.
-	•Confluence Documentary.
-	•Trello
+Technical Skills
+
+    Programming in Python.
+    Linux System Administration.
+    Docker & Containerd.
+    IaC:
+        Terraform.
+    Configuration Management:
+        Ansible.
+        Puppet.
+        Chef.
+    CI/CD:
+        GitLab.
+        GitHub.
+        Jenkins.
+        Bamboo.
+        Argo CD.
+        Circle CI.
+        Spinnaker CD.
+    Container Orchestration:
+        Kubernetes (K8S).
+        Helm.
+        Registry.
+    Monitoring:
+        Prometheus.
+        Grafana.
+        ELK Stack.
+        Nagios.
+        Zabbix.
+        Datadog.
+        Graylog.
+    Public Clouds:
+        AWS.
+        GCP.
+    On-Premise Infrastructure:
+        Microsoft Azure.
+    Collaboration Software:
+        Atlassian:
+            Jira Task Manager.
+            Confluence Documentation.
+            Trello.
