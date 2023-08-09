@@ -68,10 +68,10 @@ Find out more about me & feel free to connect here:
 
 # **Technical Skills**
 
-    Programming in Python.
-    Linux System Administration.
-    Docker & Containerd.
-    IaC:
+    **Programming in Python.**
+    **Linux System Administration.**
+    **Docker & Containerd.**
+    **IaC:**
         Terraform.
     Configuration Management:
         Ansible.
