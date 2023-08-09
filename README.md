@@ -67,7 +67,7 @@ Find out more about me & feel free to connect here:
 
 ## Technical Skills
 
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) Programming in Python.
+- Programming in Python.                    ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 - Linux System Administration.
 - Docker & Containerd.
 - IaC:
